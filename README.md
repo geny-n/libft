@@ -2,7 +2,12 @@
 Reimplementation of essential C stantdard library functions
 It will be used for all 42 projects in C
 
-## Utilisation
+## How to install
+```bash
+git clone git@github.com:geny-n/libft.git
+```
+
+## How to use
 ```bash
 make all      #build everything 
 make fclean   #clean everything
