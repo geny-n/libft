@@ -1,5 +1,6 @@
 # libft
-Reimplementation of essential C stantdard library functions
+Recreation of some C stantdard library functions
+
 It will be used for all 42 projects in C
 
 ## How to install
